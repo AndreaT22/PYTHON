@@ -16,6 +16,11 @@ print ('I prepared a ' + brown_paper_packages + ' for my grandma') # you don't n
 print(brown_paper_packages)
 
 
+#boolean vairable - has only true/false - booleans are named with IS
+is_alive=True
+
+
+
 # a list variable
 friends_and_family=['Geri', 'Anyu', 'Zoli', 'Apu', 'Kinga'] # this is a list of names USE SQUARED BRACKETS
 friends_and_family.append('Aurelia') # we added - appended - Aurelia to the end bc. we didn't add a number
