@@ -6,5 +6,3 @@ for d in bank:
         print(f"{day} is a weekday")
     else:
         print(day + " is the weekend")
-
-
