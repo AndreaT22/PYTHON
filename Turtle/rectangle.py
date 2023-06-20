@@ -23,3 +23,9 @@ def rectangle(horizontal, vertical, color):
     tony.end_fill()
     # stop drawing, you foolish turtle!
     tony.penup()
+
+# draw 2 boxes
+tony.goto(-100, -150)
+rectangle(50,20, 'blue')
+tony.goto(-30, -150)
+rectangle(50,20, 'blue')
